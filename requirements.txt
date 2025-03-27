@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+python-dotenv
+pydantic
+phonenumbers
+dateparser
+faiss-cpu
+PyPDF2
+streamlit
+langchain_community
