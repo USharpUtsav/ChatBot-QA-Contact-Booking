@@ -38,5 +38,5 @@ I've successfully implemented all requirements from the ML task:
 - View all contacts functionality
 
 ### How to Run
-pip install -r requirements.txt
-streamlit run app.py
+-pip install -r requirements.txt
+-streamlit run app.py
