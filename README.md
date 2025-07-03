@@ -3,10 +3,6 @@ A chatbot build with Langchain and Gemini that covers 3 logic:-QA system, Contac
 
 # Document Chatbot with Appointment Booking
 
-## Task Completion Summary
-
-I've successfully implemented all requirements from the ML task:
-
 ### Core Features Implemented
 
 **Document Q&A System**  
